@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=iOS%20Developer%20JuHwan&animation=&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63b7a,100:a8c6fe&height=180&text=iOS%20Developer%20JuHwan&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😀 노력과 경험을 통해 나아가는 개발자, 김주환 입니다. </h2>  
