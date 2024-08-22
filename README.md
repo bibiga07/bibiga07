@@ -20,7 +20,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/_bibiga/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjuh.wan/"> </a>
+    <div align= "center"> <a href=https://www.instagram.com/jjuh.wan/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjuh.wan/"> </a>
          <a href=https://steep-wallaby-0cf.notion.site/020df6319554495d9553544267ebc7a0?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://steep-wallaby-0cf.notion.site/020df6319554495d9553544267ebc7a0?pvs=4"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
